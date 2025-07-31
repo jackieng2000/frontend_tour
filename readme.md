@@ -27,3 +27,8 @@ Step: Secti
 copy navbar
 add icon-menu secton
 goto aswsome to get the icon
+
+step 5   choose the color for the color hunt 
+unicolors.app/generate/f4959d
+
+color to gray pintools, goole font to find the font link
